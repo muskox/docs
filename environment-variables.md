@@ -2,7 +2,7 @@
 
 Instead of defining database details or API keys in the `wp-config.php` we use environment variables. This means important details can be kept out of the source control with the added benefit of allowing each team member to define their own setup.
 
-To get started lets copy the `.env.example` to `.env`. We'll focus on the top section for now as the rest is covered under there own specific sections. First lets start with database details:
+To get started lets copy the `.env.example` to `.env`. We'll focus on the top section for now as the rest is covered under their own specific sections. First lets start with database details:
 
 ```
 DB_NAME=suzie

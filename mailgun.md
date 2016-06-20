@@ -23,4 +23,4 @@ MAILGUN_KEY=key-myapikey-here
 MAILGUN_DOMAIN=mg.bigbitecreative.com
 MAILGUN_FROM=user@mg.bigbitecreative.com
 ```
-And thats it your site will now be using Mailgun to send emails.
+And that's it, your site will now be using Mailgun to send emails.

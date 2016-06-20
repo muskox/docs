@@ -1,6 +1,6 @@
 # Getting Started
 
-Welcome, Suzie is a starter kit for WordPress. It offers a better way to build scalable WordPress sites by making sure your the core, assets/media and configuration is not stored in your source control. This enables support for multiple server setups. On top of this you have options of using Mailgun for emails and inbuilt Varnish Cache support.
+Welcome, Suzie is a starter kit for WordPress. It offers a better way to build scalable WordPress sites by making sure the core, assets/media and configuration is not stored in your source control. This enables support for multiple server setups. On top of this you have options of using Mailgun for emails and inbuilt Varnish Cache support.
 
 ## Requirements
 

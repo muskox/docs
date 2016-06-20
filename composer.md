@@ -40,7 +40,7 @@ Lets add Advanced Custom Fields, open the `composer.json` again and visit the `r
 ```json
 "wpackagist-plugin/advanced-custom-fields": "4.4.2"
 ```
-So it should like so:
+So it should look like so:
 ``` json
 "require": {
    "johnpbloch/wordpress": "4.1.4",
