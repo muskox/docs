@@ -56,7 +56,7 @@ sub vcl_backend_response {
 
 ## Installing Varnish
 
-If your not sure how to install Varnish, below is a guide of using it with either Apache or Nginx on Ubuntu 14. SSH into your servrr and run the following five commands.
+If your not sure how to install Varnish, below is a guide of using it with either Apache or Nginx on Ubuntu 14. SSH into your server and run the following five commands.
 
 ```
 apt-get install apt-transport-https
